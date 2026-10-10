@@ -1,0 +1,6 @@
+{
+  "name": "منصة مدرستي الذكية - Madrasati LMS",
+  "description": "منصة متكاملة لتسيير المدارس (جداول التوقيت وكشف التعارضات، دفتر النقاط، سجل الغياب، والمدفوعات) مع مولد فروض ذكي متوافق مع المنهاج باللغات العربية والفرنسية والإنجليزية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
